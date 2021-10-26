@@ -12,7 +12,7 @@ Projeto para praticar querys de busca de documentos em um banco de dados não-re
 1. Possuir `mongodb` instalado
 
 2. Clone o repositório
-  * `git clone git@github.com:Kevin-Ol/mongodb-aggregations.git`.
+  * `git clone git@github.com:Kevin-Ol/project-mongodb-aggregations.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd project-mongodb-aggregations`
 
